@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yannick aka. Nuraeil</h1>
-<h3 align="center">IT-guy from Germany, that is working at in the IT department at a University.</h3>
+<h3 align="center">IT-guy from Germany, that is working in the IT department at a University.</h3>
 
 - 🔭 I’m currently working on **Ansible playbooks and Infrastructure deployment**
 
