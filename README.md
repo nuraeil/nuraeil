@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yannick aka. Nuraeil</h1>
 <h3 align="center">IT-guy from Germany</h3>
 
-- 🔭 I’m currently working on **a Nuxt3 web application**
-
-- 🌱 I’m currently learning **Vue, Typescript, Nuxt3, TailwindCSS, DevOPS, Automation**
-
-- ⚡ Fun fact **I am always sleepy.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nuraeil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nuraeil" height="30" width="40" /></a>
